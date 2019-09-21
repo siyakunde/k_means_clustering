@@ -8,10 +8,7 @@ Copy the folder k_means_algorithm.
 Type cd k_means_algorithm to enter the forlder.
 To run the program type a command as follows with inputs dataset, k, epsilon, iterations:
 python3 main.py test_data.csv 2 0.001 500 
-
 The output will be in the file kmc_run_data.csv
-NOTE: Make sure the test data file name does not contain the word "preprocessed", 
-since that is how the code determines if the file data is normalized (ours) or not (yours).
 ----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
 PROGRAM DESCRIPTION:
