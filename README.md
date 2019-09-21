@@ -4,6 +4,7 @@
 ----------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------
 ## TO RUN:
+
 Copy the folder k_means_algorithm. <br />
 Type `cd k_means_algorithm` to enter the forlder.<br />
 To run the program type a command as follows with inputs dataset, k, epsilon, iterations:<br />
